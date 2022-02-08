@@ -13,13 +13,5 @@
 
 ![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aimen-prog&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimen-prog&layout=compact&count_private=true)](https://github.com/Aimen-prog/github-readme-stats)
-
-
-<a href="https://github.com/Aimen-prog/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimen-prog&layout=compact&count_private=true" />
-</a>
-
-
-
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimen-prog&layout=compact&count_private=true)](https://github.com/Aimen-prog/github-readme-stats)</center>
 
