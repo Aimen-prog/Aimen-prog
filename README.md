@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aimen</h1>
-<h3 align="center">A :france: / :tunisia: Bio-informatics student at Luminy Marseille.</h3>
+<h3 align="center">A :france::tunisia: Bio-informatics student at Luminy Marseille.</h3>
 
 - 🌱 I’m currently learning **bioinformatics and machine learning**
 
